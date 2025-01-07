@@ -46,7 +46,7 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 -->
-
+# 📊 Leetcode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Arshad12?&theme=nord&font=roboto&hide=ranking&ext=heatmap)
 
 
