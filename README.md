@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshad-Khan-12)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Arshad-Khan-12.visitor-badge&left_color=green&right_color=red)
 <!--
 **Arshad-Khan-12/Arshad-Khan-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
