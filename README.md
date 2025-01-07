@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad-Khan-12&show_icons=true&theme=neon&border_radius=15&text_bold&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![Header](./your-header-image-name.png)
+![Header](./resources/github-header-image.png)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Arshad-Khan-12&hide=prs,issues,contribs&show_icons=true&theme=neon&border_radius=15&include_all_commits=true&line_height=40&text_bold&rank_icon=github" />
